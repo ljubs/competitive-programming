@@ -2,12 +2,13 @@
 #include <vector>
 
 using namespace std;
+using ll = long long;
 
 int main() {
-    int n;
+    ll n;
     cin >> n;
 
-    vector<int> result = {n};
+    vector<ll> result = {n};
 
      while (n != 1) {
         if (n % 2 == 0)
@@ -17,7 +18,7 @@ int main() {
         result.push_back(n);
     }
 
-    for (int num : result)
+    for (ll num : result)
         cout << num << " ";
     cout << "\n";
 
