@@ -4,7 +4,7 @@
 - [X] [Weird Algorithm](./intro/weirdAlgorithm.cpp)
 - [X] [Missing Number](./intro/missingNumber.cpp)
 - [X] [Repetitions](./intro/repetitions.cpp)
-- [ ] [Increasing Array](./intro/increasingArray.cpp)
+- [X] [Increasing Array](./intro/increasingArray.cpp)
 - [ ] [Permutations](./intro/permutations.cpp)
 - [ ] [Number Spiral](./intro/numberSpiral.cpp)
 - [ ] [Two Knights](./intro/twoKnights.cpp)
